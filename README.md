@@ -5,14 +5,9 @@
 3. 将抓取到的数据保存到mysql数据库中
 4. 使用echarts绘制图表
 
-## 操作频繁
+## 截图
 
-1. referer url头部
-2. 代理IP使用
-
-## 前端 Vue
-1. vue组件嵌iframe会导致一直刷新
-
+![Capture](./capture.png)
 
 ## 使用
 
@@ -25,3 +20,12 @@
 5. 复制tmp到datav/static下
 6. datav下面npm i && npm start
 
+---
+
+## 操作频繁
+
+1. referer url头部
+2. 代理IP使用
+
+## 前端 Vue
+1. vue组件嵌iframe会导致一直刷新
