@@ -1,6 +1,6 @@
-# Python可视化
+# 招聘岗位可视化
 
-1. 抓取全国python岗位信息
+1. 抓取全国Web前端岗位信息
 2. 设计数据存储结构
 3. 将抓取到的数据保存到mysql数据库中
 4. 使用echarts绘制图表
@@ -19,6 +19,10 @@
 4. node server/index.js 把mysql数据转成json文件
 5. 复制tmp到datav/static下
 6. datav下面npm i && npm start
+
+## 课程来源
+
+[Python爬虫实战数据可视化分析](https://coding.imooc.com/class/363.html)
 
 ---
 
